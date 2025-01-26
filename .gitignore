@@ -1,0 +1,5 @@
+.godot/
+/android/
+godot-cpp/
+.sconsign.dblite
+*windows.template_debug.x86_64
